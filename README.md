@@ -6,6 +6,6 @@
 
 
 ## Usage checklist: 
-[] Rename sln file
-[] Add status badges for build pipeline
-[] Rewrite README
+- [ ] Rename sln file
+- [ ] Add status badges for build pipeline
+- [ ] Rewrite README
